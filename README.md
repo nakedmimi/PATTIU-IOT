@@ -36,6 +36,6 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
 * Alimentação Independente: Implementação de bateria recarregável ou conexão direta com a bateria da moto.
 
 ## Autores
-* Leonardo Botelho - RM: 556110 - Turma: 1TDSB - GitHub: https://github.com/Wanderluzter
-* Mirian Bronzati - RM: 555041 - Turma: 1TDSB - GitHub: https://github.com/nakedmimi
-* Raul Clauson| - RM: 555006 - Turma: 1TDSB - GitHub: https://github.com/RaulClauson
+* Leonardo Botelho - RM: 556110 - Turma: 2TDSB - GitHub: https://github.com/Wanderluzter
+* Mirian Bronzati - RM: 555041 - Turma: 2TDSB - GitHub: https://github.com/nakedmimi
+* Raul Clauson| - RM: 555006 - Turma: 2TDSB - GitHub: https://github.com/RaulClauson
