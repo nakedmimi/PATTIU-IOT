@@ -21,9 +21,9 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
 -LED
 -Buzzer
 -resistores e jumpers
-  **Linguagem**
+ * **Linguagem**
 -C++
-  **Software**
+ * **Software**
 -Arduino IDE
 -Interpretação de comandos em JSON via mobile
 -Comunicação via Wi-Fi
