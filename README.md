@@ -16,7 +16,7 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
 * Aplicação em Pátios ou Garagens: Ideal para a organização de veículos com agilidade.
  
 ## Tecnologias Utilizadas
-  **Hardware**
+ * **Hardware**
 -ESP32
 -LED
 -Buzzer
