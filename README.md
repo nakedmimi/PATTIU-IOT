@@ -28,7 +28,7 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
 -Interpretação de comandos em JSON via mobile
 -Comunicação via Wi-Fi
 
-## Execução do projeto
+## Execução do projeto via APP mobile
 
 Para a o envio de comando json via MOBILE, acesse o link do repositorio da aplicação MOBILE
 (link repositorio)
