@@ -1,7 +1,7 @@
 # PATTIU-Gestão Inteligente de Pátios Mottu
-DISRUPTIVE ARCHITECTURES: IOT, IOB &amp; GENERATIVE IA
+**DISRUPTIVE ARCHITECTURES: IOT, IOB &amp; GENERATIVE IA**
  
-**Descrição do Projeto**
+## Descrição do Projeto
 Este projeto foi desenvolvido para otimizar a gestão de grandes pátios de motos, como os utilizados pela Mottu, utilizando tecnologia de ponta para garantir localização rápida, controle preciso e rastreabilidade em tempo real. A solução integra BLE (Bluetooth Low Energy), NFC e um sistema de localização com LEDs e sinais sonoros, proporcionando agilidade operacional e redução de perdas por desorganização ou falhas manuais.
  
 Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — neste caso, um LED e um buzzer — por meio do envio de comandos em formato JSON, representando uma tag de cadastro da moto. A proposta é criar uma solução simples, leve e funcional, que pode ser aplicada em cada moto para uma melhor visualização, permitindo que o funcionário localize rapidamente a moto no pátio.
