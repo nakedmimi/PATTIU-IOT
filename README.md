@@ -27,6 +27,11 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
 -Arduino IDE
 -Interpretação de comandos em JSON via mobile
 -Comunicação via Wi-Fi
+
+## Execução do projeto
+
+Para a o envio de comando json via MOBILE, acesse o link do repositorio da aplicação MOBILE
+(link repositorio)
  
 ## Próximos Passos
 * Realização do Projeto Físico: Desenvolvimento de uma versão compacta e resistente do circuito para ser fixada diretamente nas motos da frota.
