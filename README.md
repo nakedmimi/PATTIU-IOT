@@ -24,7 +24,7 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
  * **Linguagem**
 -C++
  * **Software**
--Arduino IDE
+-Wokwi
 -Interpretação de comandos em JSON via mobile
 -Comunicação via Wi-Fi
 
