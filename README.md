@@ -31,7 +31,7 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
 ## Execução do projeto via APP mobile
 
 Para a o envio de comando json via MOBILE, acesse o link do repositorio da aplicação MOBILE
-(link repositorio)
+https://github.com/FIAP-MOBILE/challenge-pattiu
  
 ## Próximos Passos
 * Realização do Projeto Físico: Desenvolvimento de uma versão compacta e resistente do circuito para ser fixada diretamente nas motos da frota.
