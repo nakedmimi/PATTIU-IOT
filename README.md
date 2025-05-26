@@ -10,7 +10,7 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
 https://youtu.be/cEEgseSmiNI?si=kHukSM8zD2d82MIB
 
 
-## Link Wokwi
+## Link projeto Wokwi
  https://wokwi.com/projects/431788129951071233
 
  
