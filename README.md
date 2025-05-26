@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para otimizar a gestão de grandes pátios de moto
 Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — neste caso, um LED e um buzzer — por meio do envio de comandos em formato JSON, representando uma tag de cadastro da moto. A proposta é criar uma solução simples, leve e funcional, que pode ser aplicada em cada moto para uma melhor visualização, permitindo que o funcionário localize rapidamente a moto no pátio.
  
 ## Vídeo Pitch
-(Inserir link do vídeo)
+https://youtu.be/cEEgseSmiNI?si=kHukSM8zD2d82MIB
  
 ## Funcionalidades
 * Identificação Individual: Cada moto pode conter um ESP32 configurado para representar sua “tag digital”.
