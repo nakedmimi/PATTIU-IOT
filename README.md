@@ -8,12 +8,17 @@ Com isso, utilizamos o microcontrolador ESP32 para representar nossa ideia — n
  
 ## Vídeo Pitch
 https://youtu.be/cEEgseSmiNI?si=kHukSM8zD2d82MIB
+
+
+## Link Wokwi
+
  
 ## Funcionalidades
 * Identificação Individual: Cada moto pode conter um ESP32 configurado para representar sua “tag digital”.
 * Localização Visual e Sonora: O LED facilita a identificação visual da moto; o buzzer permite localizá-la mesmo em ambientes com baixa visibilidade.
 * Ativação por Comando Remoto: A ativação do LED e do buzzer é feita por meio de comandos JSON(que representa a tag de cadastro da moto) simples.
 * Aplicação em Pátios ou Garagens: Ideal para a organização de veículos com agilidade.
+
  
 ## Tecnologias Utilizadas
  * **Hardware**
