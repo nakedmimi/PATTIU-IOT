@@ -11,6 +11,7 @@ https://youtu.be/cEEgseSmiNI?si=kHukSM8zD2d82MIB
 
 
 ## Link Wokwi
+//wokwi.com/projects/431788129951071233
 
  
 ## Funcionalidades
